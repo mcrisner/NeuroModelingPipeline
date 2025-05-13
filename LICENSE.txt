@@ -1,0 +1,13 @@
+Copyright © 2025 Matthew Risner, 
+Boston Children’s Hospital and Harvard Medical School
+
+This software was developed as part of a research study funded by the National Science Foundation, investigating the neural correlates of social withdrawal using functional and structural MRI data provided by the ABCD Study.
+
+Permission is granted to use, copy, and modify this software for non-commercial academic research purposes only, provided that appropriate credit is given and this notice appears in all copies.
+
+This software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability or fitness for a particular purpose.
+
+For commercial licensing or any other uses, please contact the principal investigator or corresponding author of the study.
+
+Harvard Medical School and Boston Children’s Hospital make no representations or warranties regarding the software.
+
