@@ -1,6 +1,6 @@
 # NeuroModelingPipeline
 
-This repository contains MATLAB code developed as part of a research study conducted at **Harvard Medical School** and **Boston Children’s Hospital**, funded by the **National Science Foundation**. The study investigates the neural correlates of social isolation in youth, leveraging morphometric features from structural MRI and topological features derived from resting-state fMRI using advanced methods from graph and network theory.
+This repository contains MATLAB code developed as part of a research study conducted at **Harvard Medical School** and **Boston Children’s Hospital**, funded by the **National Science Foundation**. The study investigates the neural correlates of social isolation in youth, leveraging morphometric features from structural MRI and topological features derived from resting-state fMRI using advanced methods from graph and network theory [(Rubinov & Sporns, 2010)](https://pubmed.ncbi.nlm.nih.gov/19819337/).
 
 The modeling pipeline performs statistical analysis of brain-behavior associations at the connectome-, network-, node-, and structural-level. It supports flexible model configurations with both linear and mixed-effects modeling options, suitable for large-scale neuroimaging datasets such as the Adolescent Brain Cognitive Development (ABCD) Study.
 
