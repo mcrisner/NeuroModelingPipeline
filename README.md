@@ -8,7 +8,7 @@ This pipeline is designed to operate within a high-performance computing environ
 
 All core modeling code is provided to support **open science** and facilitate **reproducible analyses** in the neuroscience community, with the goal of **accelerating discovery in brain-behavior research**.
 
-A preprint of this study can be found [here](https://www.biorxiv.org/content/10.1101/2025.03.17.643680v1.full).
+A preprint of the study can be found [here](https://www.biorxiv.org/content/10.1101/2025.03.17.643680v1.full).
 
 # `stat_modeling_main.m`
 
